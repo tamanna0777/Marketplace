@@ -1,0 +1,68 @@
+[
+ {
+  "id": "kalakriti",
+  "name": "Kalakriti Crafts",
+  "tagline": "Handmade decor from Jaipur's workshops",
+  "city": "Jaipur",
+  "emoji": "🏺",
+  "color": "#F4B860",
+  "rating": 4.8,
+  "since": 2016,
+  "about": "A family-run collective of 40 artisans making block-printed textiles, blue pottery and brass accents. Every piece is made to order."
+ },
+ {
+  "id": "threadwork",
+  "name": "Threadwork Studio",
+  "tagline": "Handloom everyday wear",
+  "city": "Pune",
+  "emoji": "🧵",
+  "color": "#9AD0EC",
+  "rating": 4.6,
+  "since": 2018,
+  "about": "Small-batch kurtas, stoles and shirts woven on handlooms in Maharashtra and Odisha. Natural dyes, no fast fashion."
+ },
+ {
+  "id": "gadgetgully",
+  "name": "Gadget Gully",
+  "tagline": "Smart gear, honest prices",
+  "city": "Bengaluru",
+  "emoji": "🎧",
+  "color": "#B8A9F0",
+  "rating": 4.5,
+  "since": 2019,
+  "about": "Tested audio, charging and desk gadgets. Every product carries a 12-month replacement warranty."
+ },
+ {
+  "id": "spicetrail",
+  "name": "Spice Trail Pantry",
+  "tagline": "Single-origin spices and pantry staples",
+  "city": "Kochi",
+  "emoji": "🌶️",
+  "color": "#F28F8F",
+  "rating": 4.9,
+  "since": 2014,
+  "about": "Spices bought directly from Kerala and Karnataka farms, ground in small lots and packed within a week."
+ },
+ {
+  "id": "greenleaf",
+  "name": "Green Leaf Nursery",
+  "tagline": "Live plants, packed with care",
+  "city": "Nashik",
+  "emoji": "🪴",
+  "color": "#8FD6A4",
+  "rating": 4.7,
+  "since": 2017,
+  "about": "Hardy indoor plants, planters and seeds raised in our nursery. Plants ship in ventilated boxes and arrive healthy or we replace them."
+ },
+ {
+  "id": "pagebound",
+  "name": "Pagebound Books",
+  "tagline": "Books and stationery worth keeping",
+  "city": "Mumbai",
+  "emoji": "📚",
+  "color": "#F7D774",
+  "rating": 4.6,
+  "since": 2012,
+  "about": "An independent bookshop with a curated shelf of fiction, non-fiction and notebooks from small Indian presses."
+ }
+]

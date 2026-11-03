@@ -1,0 +1,38 @@
+[
+ {
+  "id": "home-decor",
+  "name": "Home & decor",
+  "emoji": "🛋️",
+  "color": "#F4B860"
+ },
+ {
+  "id": "fashion",
+  "name": "Fashion",
+  "emoji": "👕",
+  "color": "#9AD0EC"
+ },
+ {
+  "id": "electronics",
+  "name": "Electronics",
+  "emoji": "🔌",
+  "color": "#B8A9F0"
+ },
+ {
+  "id": "gourmet",
+  "name": "Gourmet food",
+  "emoji": "🍯",
+  "color": "#F28F8F"
+ },
+ {
+  "id": "plants",
+  "name": "Plants & garden",
+  "emoji": "🌿",
+  "color": "#8FD6A4"
+ },
+ {
+  "id": "books",
+  "name": "Books & stationery",
+  "emoji": "📓",
+  "color": "#F7D774"
+ }
+]

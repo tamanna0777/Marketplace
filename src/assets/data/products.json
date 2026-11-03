@@ -1,0 +1,1388 @@
+[
+ {
+  "id": 1,
+  "vendorId": "kalakriti",
+  "category": "home-decor",
+  "name": "Blue pottery serving bowl",
+  "price": 899,
+  "mrp": 1199,
+  "stock": 3,
+  "rating": 4.3,
+  "reviewCount": 62,
+  "emoji": "🥣",
+  "color": "#F4B860",
+  "description": "Hand-painted blue pottery bowl, food safe, 22 cm wide. Glazed in Jaipur using the traditional quartz method.",
+  "tags": [
+   "home-decor",
+   "kalakriti"
+  ],
+  "reviews": [
+   {
+    "user": "Aarav M.",
+    "rating": 4,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-13"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 4,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-16"
+   }
+  ],
+  "createdAt": "2026-07-23"
+ },
+ {
+  "id": 2,
+  "vendorId": "kalakriti",
+  "category": "home-decor",
+  "name": "Block-print cushion cover set (2)",
+  "price": 649,
+  "mrp": 899,
+  "stock": 24,
+  "rating": 4.1,
+  "reviewCount": 43,
+  "emoji": "🛏️",
+  "color": "#F4B860",
+  "description": "Two 16x16 inch cotton cushion covers with indigo block prints. Zip closure, machine washable.",
+  "tags": [
+   "home-decor",
+   "kalakriti"
+  ],
+  "reviews": [
+   {
+    "user": "Vikram T.",
+    "rating": 4,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-13"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-28"
+   }
+  ],
+  "createdAt": "2026-04-11"
+ },
+ {
+  "id": 3,
+  "vendorId": "kalakriti",
+  "category": "home-decor",
+  "name": "Brass diya set of 6",
+  "price": 499,
+  "mrp": 649,
+  "stock": 40,
+  "rating": 4.5,
+  "reviewCount": 310,
+  "emoji": "🪔",
+  "color": "#F4B860",
+  "description": "Six solid brass diyas with a hammered finish. Stable base, each holds roughly 2 hours of oil.",
+  "tags": [
+   "home-decor",
+   "kalakriti"
+  ],
+  "reviews": [
+   {
+    "user": "Vikram T.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-09-13"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 4,
+    "text": "Seller replied quickly to my question.",
+    "date": "2026-06-13"
+   }
+  ],
+  "createdAt": "2026-04-21"
+ },
+ {
+  "id": 4,
+  "vendorId": "kalakriti",
+  "category": "home-decor",
+  "name": "Hand-knotted jute rug",
+  "price": 2499,
+  "mrp": 3499,
+  "stock": 40,
+  "rating": 4.1,
+  "reviewCount": 271,
+  "emoji": "🧶",
+  "color": "#F4B860",
+  "description": "Natural jute rug, 3x5 ft, hand knotted. Soft underfoot and easy to spot clean.",
+  "tags": [
+   "home-decor",
+   "kalakriti"
+  ],
+  "reviews": [
+   {
+    "user": "Meera N.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-16"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-07-24"
+   },
+   {
+    "user": "Ananya B.",
+    "rating": 4,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-07-17"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-19"
+   }
+  ],
+  "createdAt": "2026-06-24"
+ },
+ {
+  "id": 5,
+  "vendorId": "kalakriti",
+  "category": "home-decor",
+  "name": "Terracotta wall planter",
+  "price": 379,
+  "mrp": 499,
+  "stock": 0,
+  "rating": 4.3,
+  "reviewCount": 311,
+  "emoji": "🏮",
+  "color": "#F4B860",
+  "description": "Wall-hung terracotta pot with a drainage hole and rope hanger. Fits a small trailing plant.",
+  "tags": [
+   "home-decor",
+   "kalakriti"
+  ],
+  "reviews": [
+   {
+    "user": "Kabir L.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-06-20"
+   },
+   {
+    "user": "Ananya B.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-05-12"
+   }
+  ],
+  "createdAt": "2026-06-20"
+ },
+ {
+  "id": 6,
+  "vendorId": "kalakriti",
+  "category": "home-decor",
+  "name": "Wooden spice box (7 jars)",
+  "price": 1199,
+  "mrp": 1599,
+  "stock": 24,
+  "rating": 4.6,
+  "reviewCount": 199,
+  "emoji": "🧰",
+  "color": "#F4B860",
+  "description": "Sheesham wood masala dabba with seven steel jars and a spoon. Lid is tight fitting.",
+  "tags": [
+   "home-decor",
+   "kalakriti"
+  ],
+  "reviews": [
+   {
+    "user": "Meera N.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-05-12"
+   },
+   {
+    "user": "Ananya B.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-05-11"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 3,
+    "text": "Does the job, packaging could be better.",
+    "date": "2026-09-24"
+   },
+   {
+    "user": "Vikram T.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-07-10"
+   }
+  ],
+  "createdAt": "2026-03-13"
+ },
+ {
+  "id": 7,
+  "vendorId": "threadwork",
+  "category": "fashion",
+  "name": "Handloom cotton kurta",
+  "price": 1299,
+  "mrp": 1799,
+  "stock": 24,
+  "rating": 4.4,
+  "reviewCount": 299,
+  "emoji": "👘",
+  "color": "#9AD0EC",
+  "description": "Breathable handloom cotton kurta with a relaxed fit. Natural indigo dye; wash separately for the first two washes.",
+  "tags": [
+   "fashion",
+   "threadwork"
+  ],
+  "reviews": [
+   {
+    "user": "Rohan K.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-06-22"
+   },
+   {
+    "user": "Ananya B.",
+    "rating": 4,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-06-24"
+   }
+  ],
+  "createdAt": "2026-05-14"
+ },
+ {
+  "id": 8,
+  "vendorId": "threadwork",
+  "category": "fashion",
+  "name": "Ikat stole",
+  "price": 799,
+  "mrp": 1099,
+  "stock": 24,
+  "rating": 4.7,
+  "reviewCount": 291,
+  "emoji": "🧣",
+  "color": "#9AD0EC",
+  "description": "Soft cotton-silk ikat stole, 2 metres long. Handwoven in Odisha.",
+  "tags": [
+   "fashion",
+   "threadwork"
+  ],
+  "reviews": [
+   {
+    "user": "Vikram T.",
+    "rating": 4,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-08-17"
+   },
+   {
+    "user": "Priya S.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-06-17"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 3,
+    "text": "Good overall, but delivery took a bit longer than I hoped.",
+    "date": "2026-08-28"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-05-14"
+   }
+  ],
+  "createdAt": "2026-06-28"
+ },
+ {
+  "id": 9,
+  "vendorId": "threadwork",
+  "category": "fashion",
+  "name": "Linen overshirt",
+  "price": 1699,
+  "mrp": 2199,
+  "stock": 24,
+  "rating": 4.3,
+  "reviewCount": 71,
+  "emoji": "🧥",
+  "color": "#9AD0EC",
+  "description": "Washed linen overshirt with two chest pockets. Sizes S to XXL.",
+  "tags": [
+   "fashion",
+   "threadwork"
+  ],
+  "reviews": [
+   {
+    "user": "Kabir L.",
+    "rating": 3,
+    "text": "Does the job, packaging could be better.",
+    "date": "2026-05-24"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 3,
+    "text": "Decent. The colour is slightly different from the photo.",
+    "date": "2026-08-22"
+   }
+  ],
+  "createdAt": "2026-08-22"
+ },
+ {
+  "id": 10,
+  "vendorId": "threadwork",
+  "category": "fashion",
+  "name": "Khadi tote bag",
+  "price": 449,
+  "mrp": 599,
+  "stock": 8,
+  "rating": 4.1,
+  "reviewCount": 292,
+  "emoji": "👜",
+  "color": "#9AD0EC",
+  "description": "Sturdy khadi tote with an inner pocket and 12 kg load rating.",
+  "tags": [
+   "fashion",
+   "threadwork"
+  ],
+  "reviews": [
+   {
+    "user": "Ananya B.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-05-20"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 4,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-05-28"
+   }
+  ],
+  "createdAt": "2026-02-21"
+ },
+ {
+  "id": 11,
+  "vendorId": "threadwork",
+  "category": "fashion",
+  "name": "Block-print palazzo",
+  "price": 999,
+  "mrp": 1399,
+  "stock": 3,
+  "rating": 4.6,
+  "reviewCount": 267,
+  "emoji": "👖",
+  "color": "#9AD0EC",
+  "description": "Elastic-waist cotton palazzo with floral block print and side pockets.",
+  "tags": [
+   "fashion",
+   "threadwork"
+  ],
+  "reviews": [
+   {
+    "user": "Meera N.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-06-18"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 4,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-08-13"
+   }
+  ],
+  "createdAt": "2026-08-25"
+ },
+ {
+  "id": 12,
+  "vendorId": "threadwork",
+  "category": "fashion",
+  "name": "Leather kolhapuri sandals",
+  "price": 1099,
+  "mrp": 1499,
+  "stock": 40,
+  "rating": 4.4,
+  "reviewCount": 203,
+  "emoji": "🥿",
+  "color": "#9AD0EC",
+  "description": "Hand-stitched vegetable-tanned leather sandals from Kolhapur. Break-in takes a few days.",
+  "tags": [
+   "fashion",
+   "threadwork"
+  ],
+  "reviews": [
+   {
+    "user": "Priya S.",
+    "rating": 5,
+    "text": "Solid build and nice finish.",
+    "date": "2026-07-18"
+   },
+   {
+    "user": "Rohan K.",
+    "rating": 4,
+    "text": "Seller replied quickly to my question.",
+    "date": "2026-05-16"
+   }
+  ],
+  "createdAt": "2026-03-27"
+ },
+ {
+  "id": 13,
+  "vendorId": "gadgetgully",
+  "category": "electronics",
+  "name": "Wireless earbuds Pro",
+  "price": 2199,
+  "mrp": 3999,
+  "stock": 40,
+  "rating": 4.8,
+  "reviewCount": 270,
+  "emoji": "🎧",
+  "color": "#B8A9F0",
+  "description": "Bluetooth 5.3 earbuds with 28 hours total battery, IPX5 sweat resistance and a clear mic.",
+  "tags": [
+   "electronics",
+   "gadgetgully"
+  ],
+  "reviews": [
+   {
+    "user": "Priya S.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-07-26"
+   },
+   {
+    "user": "Rohan K.",
+    "rating": 4,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-06-27"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-06-16"
+   },
+   {
+    "user": "Vikram T.",
+    "rating": 5,
+    "text": "Solid build and nice finish.",
+    "date": "2026-06-16"
+   }
+  ],
+  "createdAt": "2026-06-10"
+ },
+ {
+  "id": 14,
+  "vendorId": "gadgetgully",
+  "category": "electronics",
+  "name": "65W GaN fast charger",
+  "price": 1499,
+  "mrp": 2299,
+  "stock": 3,
+  "rating": 4.9,
+  "reviewCount": 265,
+  "emoji": "🔋",
+  "color": "#B8A9F0",
+  "description": "Three-port charger that powers a laptop and two phones at once. Compact and travel friendly.",
+  "tags": [
+   "electronics",
+   "gadgetgully"
+  ],
+  "reviews": [
+   {
+    "user": "Sanjay P.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-09-21"
+   },
+   {
+    "user": "Isha R.",
+    "rating": 4,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-05-17"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-06-20"
+   }
+  ],
+  "createdAt": "2026-01-25"
+ },
+ {
+  "id": 15,
+  "vendorId": "gadgetgully",
+  "category": "electronics",
+  "name": "Mechanical keyboard (75%)",
+  "price": 3499,
+  "mrp": 4999,
+  "stock": 24,
+  "rating": 4.8,
+  "reviewCount": 398,
+  "emoji": "⌨️",
+  "color": "#B8A9F0",
+  "description": "Hot-swappable 75% keyboard with tactile switches and a USB-C cable.",
+  "tags": [
+   "electronics",
+   "gadgetgully"
+  ],
+  "reviews": [
+   {
+    "user": "Priya S.",
+    "rating": 3,
+    "text": "Does the job, packaging could be better.",
+    "date": "2026-05-22"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 3,
+    "text": "Decent. The colour is slightly different from the photo.",
+    "date": "2026-06-23"
+   },
+   {
+    "user": "Isha R.",
+    "rating": 3,
+    "text": "Good overall, but delivery took a bit longer than I hoped.",
+    "date": "2026-08-24"
+   }
+  ],
+  "createdAt": "2026-02-15"
+ },
+ {
+  "id": 16,
+  "vendorId": "gadgetgully",
+  "category": "electronics",
+  "name": "Smart LED desk lamp",
+  "price": 1799,
+  "mrp": 2499,
+  "stock": 40,
+  "rating": 4.2,
+  "reviewCount": 298,
+  "emoji": "💡",
+  "color": "#B8A9F0",
+  "description": "Adjustable colour temperature, touch dimmer and a built-in USB charging port.",
+  "tags": [
+   "electronics",
+   "gadgetgully"
+  ],
+  "reviews": [
+   {
+    "user": "Rohan K.",
+    "rating": 5,
+    "text": "Seller replied quickly to my question.",
+    "date": "2026-08-14"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-07-14"
+   }
+  ],
+  "createdAt": "2026-03-10"
+ },
+ {
+  "id": 17,
+  "vendorId": "gadgetgully",
+  "category": "electronics",
+  "name": "Portable Bluetooth speaker",
+  "price": 1599,
+  "mrp": 2799,
+  "stock": 60,
+  "rating": 4.0,
+  "reviewCount": 199,
+  "emoji": "🔊",
+  "color": "#B8A9F0",
+  "description": "Rugged speaker with 12 hours of playback and an IP67 rating.",
+  "tags": [
+   "electronics",
+   "gadgetgully"
+  ],
+  "reviews": [
+   {
+    "user": "Priya S.",
+    "rating": 3,
+    "text": "Does the job, packaging could be better.",
+    "date": "2026-06-23"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-07-16"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-09-20"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-06-11"
+   }
+  ],
+  "createdAt": "2026-08-28"
+ },
+ {
+  "id": 18,
+  "vendorId": "gadgetgully",
+  "category": "electronics",
+  "name": "Laptop stand (aluminium)",
+  "price": 999,
+  "mrp": 1499,
+  "stock": 3,
+  "rating": 4.7,
+  "reviewCount": 184,
+  "emoji": "💻",
+  "color": "#B8A9F0",
+  "description": "Foldable stand with six height settings. Fits laptops from 11 to 17 inches.",
+  "tags": [
+   "electronics",
+   "gadgetgully"
+  ],
+  "reviews": [
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-09-14"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-08-15"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-06-14"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-05-27"
+   }
+  ],
+  "createdAt": "2026-09-26"
+ },
+ {
+  "id": 19,
+  "vendorId": "spicetrail",
+  "category": "gourmet",
+  "name": "Malabar black pepper 200g",
+  "price": 249,
+  "mrp": 320,
+  "stock": 3,
+  "rating": 4.5,
+  "reviewCount": 407,
+  "emoji": "⚫",
+  "color": "#F28F8F",
+  "description": "Bold, aromatic pepper from Wayanad. Packed within a week of grinding or sorting.",
+  "tags": [
+   "gourmet",
+   "spicetrail"
+  ],
+  "reviews": [
+   {
+    "user": "Aarav M.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-06-18"
+   },
+   {
+    "user": "Priya S.",
+    "rating": 5,
+    "text": "Seller replied quickly to my question.",
+    "date": "2026-08-27"
+   }
+  ],
+  "createdAt": "2026-02-24"
+ },
+ {
+  "id": 20,
+  "vendorId": "spicetrail",
+  "category": "gourmet",
+  "name": "Kashmiri chilli powder 250g",
+  "price": 299,
+  "mrp": 380,
+  "stock": 24,
+  "rating": 4.3,
+  "reviewCount": 179,
+  "emoji": "🌶️",
+  "color": "#F28F8F",
+  "description": "Deep red colour and mild heat. No added colour or fillers.",
+  "tags": [
+   "gourmet",
+   "spicetrail"
+  ],
+  "reviews": [
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-07-24"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-09-17"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 3,
+    "text": "Decent. The colour is slightly different from the photo.",
+    "date": "2026-09-16"
+   },
+   {
+    "user": "Rohan K.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-05-22"
+   }
+  ],
+  "createdAt": "2026-02-17"
+ },
+ {
+  "id": 21,
+  "vendorId": "spicetrail",
+  "category": "gourmet",
+  "name": "Wild forest honey 500g",
+  "price": 549,
+  "mrp": 699,
+  "stock": 60,
+  "rating": 4.4,
+  "reviewCount": 66,
+  "emoji": "🍯",
+  "color": "#F28F8F",
+  "description": "Raw, unprocessed honey from the Western Ghats. May crystallise naturally.",
+  "tags": [
+   "gourmet",
+   "spicetrail"
+  ],
+  "reviews": [
+   {
+    "user": "Sanjay P.",
+    "rating": 3,
+    "text": "Good overall, but delivery took a bit longer than I hoped.",
+    "date": "2026-06-21"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-08-17"
+   }
+  ],
+  "createdAt": "2026-07-25"
+ },
+ {
+  "id": 22,
+  "vendorId": "spicetrail",
+  "category": "gourmet",
+  "name": "Cardamom (green) 100g",
+  "price": 399,
+  "mrp": 520,
+  "stock": 24,
+  "rating": 4.1,
+  "reviewCount": 187,
+  "emoji": "🫚",
+  "color": "#F28F8F",
+  "description": "Large 8mm pods from Idukki. Strong aroma, perfect for chai and sweets.",
+  "tags": [
+   "gourmet",
+   "spicetrail"
+  ],
+  "reviews": [
+   {
+    "user": "Rohan K.",
+    "rating": 5,
+    "text": "Solid build and nice finish.",
+    "date": "2026-08-26"
+   },
+   {
+    "user": "Isha R.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-06-21"
+   },
+   {
+    "user": "Priya S.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-07-10"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-08-10"
+   }
+  ],
+  "createdAt": "2026-09-19"
+ },
+ {
+  "id": 23,
+  "vendorId": "spicetrail",
+  "category": "gourmet",
+  "name": "Masala chai blend 250g",
+  "price": 329,
+  "mrp": 420,
+  "stock": 24,
+  "rating": 4.5,
+  "reviewCount": 364,
+  "emoji": "🍵",
+  "color": "#F28F8F",
+  "description": "Assam CTC with ginger, cardamom and clove. Makes about 100 cups.",
+  "tags": [
+   "gourmet",
+   "spicetrail"
+  ],
+  "reviews": [
+   {
+    "user": "Neha D.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-05-18"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-07-14"
+   }
+  ],
+  "createdAt": "2026-05-22"
+ },
+ {
+  "id": 24,
+  "vendorId": "spicetrail",
+  "category": "gourmet",
+  "name": "Cold-pressed coconut oil 1L",
+  "price": 699,
+  "mrp": 899,
+  "stock": 3,
+  "rating": 4.1,
+  "reviewCount": 250,
+  "emoji": "🥥",
+  "color": "#F28F8F",
+  "description": "Cold-pressed in small batches from Kerala coconuts. Good for cooking and skin.",
+  "tags": [
+   "gourmet",
+   "spicetrail"
+  ],
+  "reviews": [
+   {
+    "user": "Ananya B.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-07-12"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-06-23"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-05-18"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-05-18"
+   }
+  ],
+  "createdAt": "2026-01-20"
+ },
+ {
+  "id": 25,
+  "vendorId": "greenleaf",
+  "category": "plants",
+  "name": "Money plant in ceramic pot",
+  "price": 349,
+  "mrp": 499,
+  "stock": 40,
+  "rating": 4.9,
+  "reviewCount": 406,
+  "emoji": "🪴",
+  "color": "#8FD6A4",
+  "description": "Low-light friendly trailing plant in a 4 inch white ceramic pot.",
+  "tags": [
+   "plants",
+   "greenleaf"
+  ],
+  "reviews": [
+   {
+    "user": "Meera N.",
+    "rating": 4,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-05-26"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 3,
+    "text": "Good overall, but delivery took a bit longer than I hoped.",
+    "date": "2026-06-18"
+   },
+   {
+    "user": "Rohan K.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-07-19"
+   }
+  ],
+  "createdAt": "2026-04-19"
+ },
+ {
+  "id": 26,
+  "vendorId": "greenleaf",
+  "category": "plants",
+  "name": "Snake plant (medium)",
+  "price": 499,
+  "mrp": 699,
+  "stock": 24,
+  "rating": 4.4,
+  "reviewCount": 277,
+  "emoji": "🌱",
+  "color": "#8FD6A4",
+  "description": "Nearly indestructible. Tolerates low light and irregular watering.",
+  "tags": [
+   "plants",
+   "greenleaf"
+  ],
+  "reviews": [
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-05-18"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-27"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-06-24"
+   },
+   {
+    "user": "Vikram T.",
+    "rating": 5,
+    "text": "Solid build and nice finish.",
+    "date": "2026-08-27"
+   }
+  ],
+  "createdAt": "2026-05-16"
+ },
+ {
+  "id": 27,
+  "vendorId": "greenleaf",
+  "category": "plants",
+  "name": "Herb garden kit (4 herbs)",
+  "price": 599,
+  "mrp": 799,
+  "stock": 60,
+  "rating": 4.9,
+  "reviewCount": 162,
+  "emoji": "🌿",
+  "color": "#8FD6A4",
+  "description": "Basil, mint, coriander and oregano seeds with pots, soil discs and a tray.",
+  "tags": [
+   "plants",
+   "greenleaf"
+  ],
+  "reviews": [
+   {
+    "user": "Rohan K.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-07-11"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-07-23"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-08-26"
+   }
+  ],
+  "createdAt": "2026-04-19"
+ },
+ {
+  "id": 28,
+  "vendorId": "greenleaf",
+  "category": "plants",
+  "name": "Cactus trio",
+  "price": 449,
+  "mrp": 599,
+  "stock": 3,
+  "rating": 4.0,
+  "reviewCount": 176,
+  "emoji": "🌵",
+  "color": "#8FD6A4",
+  "description": "Three small cacti in terracotta pots. Needs bright light and little water.",
+  "tags": [
+   "plants",
+   "greenleaf"
+  ],
+  "reviews": [
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-05-18"
+   },
+   {
+    "user": "Isha R.",
+    "rating": 4,
+    "text": "Seller replied quickly to my question.",
+    "date": "2026-07-17"
+   }
+  ],
+  "createdAt": "2026-04-21"
+ },
+ {
+  "id": 29,
+  "vendorId": "greenleaf",
+  "category": "plants",
+  "name": "Self-watering planter",
+  "price": 799,
+  "mrp": 1099,
+  "stock": 40,
+  "rating": 4.2,
+  "reviewCount": 39,
+  "emoji": "🪣",
+  "color": "#8FD6A4",
+  "description": "Reservoir planter that keeps soil evenly moist for up to two weeks.",
+  "tags": [
+   "plants",
+   "greenleaf"
+  ],
+  "reviews": [
+   {
+    "user": "Priya S.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-07-26"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 3,
+    "text": "Good overall, but delivery took a bit longer than I hoped.",
+    "date": "2026-09-10"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-06-22"
+   }
+  ],
+  "createdAt": "2026-07-10"
+ },
+ {
+  "id": 30,
+  "vendorId": "greenleaf",
+  "category": "plants",
+  "name": "Tulsi seed packet (pack of 3)",
+  "price": 149,
+  "mrp": 199,
+  "stock": 8,
+  "rating": 4.3,
+  "reviewCount": 286,
+  "emoji": "🍃",
+  "color": "#8FD6A4",
+  "description": "Rama and Krishna tulsi seeds with a simple growing guide.",
+  "tags": [
+   "plants",
+   "greenleaf"
+  ],
+  "reviews": [
+   {
+    "user": "Priya S.",
+    "rating": 5,
+    "text": "Seller replied quickly to my question.",
+    "date": "2026-09-14"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 3,
+    "text": "Decent. The colour is slightly different from the photo.",
+    "date": "2026-07-25"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Solid build and nice finish.",
+    "date": "2026-09-14"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 5,
+    "text": "Solid build and nice finish.",
+    "date": "2026-08-26"
+   }
+  ],
+  "createdAt": "2026-09-28"
+ },
+ {
+  "id": 31,
+  "vendorId": "pagebound",
+  "category": "books",
+  "name": "Dotted notebook A5 (set of 3)",
+  "price": 449,
+  "mrp": 599,
+  "stock": 24,
+  "rating": 4.8,
+  "reviewCount": 249,
+  "emoji": "📓",
+  "color": "#F7D774",
+  "description": "120 gsm paper, lay-flat binding, numbered pages and an index.",
+  "tags": [
+   "books",
+   "pagebound"
+  ],
+  "reviews": [
+   {
+    "user": "Meera N.",
+    "rating": 3,
+    "text": "Does the job, packaging could be better.",
+    "date": "2026-06-12"
+   },
+   {
+    "user": "Aarav M.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-07-13"
+   }
+  ],
+  "createdAt": "2026-09-11"
+ },
+ {
+  "id": 32,
+  "vendorId": "pagebound",
+  "category": "books",
+  "name": "Fountain pen starter kit",
+  "price": 899,
+  "mrp": 1299,
+  "stock": 60,
+  "rating": 4.6,
+  "reviewCount": 350,
+  "emoji": "🖋️",
+  "color": "#F7D774",
+  "description": "Smooth medium-nib pen with converter, five ink cartridges and a refill bottle.",
+  "tags": [
+   "books",
+   "pagebound"
+  ],
+  "reviews": [
+   {
+    "user": "Neha D.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-07-10"
+   },
+   {
+    "user": "Priya S.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-09-27"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-08-18"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-06-17"
+   }
+  ],
+  "createdAt": "2026-08-25"
+ },
+ {
+  "id": 33,
+  "vendorId": "pagebound",
+  "category": "books",
+  "name": "Indian short stories collection",
+  "price": 399,
+  "mrp": 499,
+  "stock": 60,
+  "rating": 4.8,
+  "reviewCount": 398,
+  "emoji": "📖",
+  "color": "#F7D774",
+  "description": "Fourteen translated short stories from eight languages. Paperback, 288 pages.",
+  "tags": [
+   "books",
+   "pagebound"
+  ],
+  "reviews": [
+   {
+    "user": "Sanjay P.",
+    "rating": 4,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-16"
+   },
+   {
+    "user": "Meera N.",
+    "rating": 5,
+    "text": "Great quality for the price. Would buy again.",
+    "date": "2026-07-18"
+   }
+  ],
+  "createdAt": "2026-05-28"
+ },
+ {
+  "id": 34,
+  "vendorId": "pagebound",
+  "category": "books",
+  "name": "Weekly planner 2027",
+  "price": 349,
+  "mrp": 499,
+  "stock": 8,
+  "rating": 4.1,
+  "reviewCount": 177,
+  "emoji": "🗓️",
+  "color": "#F7D774",
+  "description": "Undated-style weekly spreads with habit tracker and monthly goals. Starts January 2027.",
+  "tags": [
+   "books",
+   "pagebound"
+  ],
+  "reviews": [
+   {
+    "user": "Ananya B.",
+    "rating": 5,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-05-16"
+   },
+   {
+    "user": "Ananya B.",
+    "rating": 3,
+    "text": "Decent. The colour is slightly different from the photo.",
+    "date": "2026-09-19"
+   },
+   {
+    "user": "Ananya B.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-05-27"
+   }
+  ],
+  "createdAt": "2026-02-25"
+ },
+ {
+  "id": 35,
+  "vendorId": "pagebound",
+  "category": "books",
+  "name": "Watercolour sketch set",
+  "price": 1099,
+  "mrp": 1499,
+  "stock": 40,
+  "rating": 4.0,
+  "reviewCount": 341,
+  "emoji": "🎨",
+  "color": "#F7D774",
+  "description": "24 pan colours, two brushes and a 12-sheet cold press pad.",
+  "tags": [
+   "books",
+   "pagebound"
+  ],
+  "reviews": [
+   {
+    "user": "Kabir L.",
+    "rating": 5,
+    "text": "Looks even better in person.",
+    "date": "2026-07-22"
+   },
+   {
+    "user": "Neha D.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-09-12"
+   },
+   {
+    "user": "Kabir L.",
+    "rating": 5,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-07-14"
+   }
+  ],
+  "createdAt": "2026-09-18"
+ },
+ {
+  "id": 36,
+  "vendorId": "pagebound",
+  "category": "books",
+  "name": "Pocket history of India",
+  "price": 499,
+  "mrp": 650,
+  "stock": 3,
+  "rating": 4.8,
+  "reviewCount": 184,
+  "emoji": "🏛️",
+  "color": "#F7D774",
+  "description": "A compact overview of Indian history from the Indus Valley to 1947.",
+  "tags": [
+   "books",
+   "pagebound"
+  ],
+  "reviews": [
+   {
+    "user": "Neha D.",
+    "rating": 4,
+    "text": "Looks even better in person.",
+    "date": "2026-08-22"
+   },
+   {
+    "user": "Rohan K.",
+    "rating": 5,
+    "text": "Exactly as described and packed really well.",
+    "date": "2026-08-24"
+   },
+   {
+    "user": "Sanjay P.",
+    "rating": 4,
+    "text": "Solid build and nice finish.",
+    "date": "2026-06-23"
+   },
+   {
+    "user": "Vikram T.",
+    "rating": 4,
+    "text": "Arrived earlier than expected, very happy.",
+    "date": "2026-05-20"
+   }
+  ],
+  "createdAt": "2026-06-22"
+ }
+]

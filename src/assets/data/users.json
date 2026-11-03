@@ -1,0 +1,25 @@
+[
+ {
+  "id": "u-demo",
+  "name": "Demo Customer",
+  "email": "customer@demo.com",
+  "password": "demo123",
+  "role": "customer"
+ },
+ {
+  "id": "u-kala",
+  "name": "Kalakriti Owner",
+  "email": "kalakriti@demo.com",
+  "password": "demo123",
+  "role": "vendor",
+  "vendorId": "kalakriti"
+ },
+ {
+  "id": "u-gadget",
+  "name": "Gadget Gully Owner",
+  "email": "gadget@demo.com",
+  "password": "demo123",
+  "role": "vendor",
+  "vendorId": "gadgetgully"
+ }
+]
